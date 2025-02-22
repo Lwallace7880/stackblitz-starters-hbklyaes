@@ -1,0 +1,28 @@
+{
+  "name": "hvac-report-writer",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "@supabase/supabase-js": "^2.33.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.10.1",
+    "uuid": "^9.0.0",
+    "react-to-print": "^2.14.13",
+    "jspdf": "^2.5.1",
+    "html2canvas": "^1.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.21",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.4",
+    "sass": "~1.64.2",
+    "vite": "^4.4.9",
+    "typescript": "^5.2.2"
+  }
+}
